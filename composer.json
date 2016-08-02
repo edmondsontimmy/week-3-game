@@ -1,0 +1,33 @@
+{"carlist": [
+
+	{
+		"word":"mustang",
+		"clue":"ford"
+	},
+
+	{
+		"word":"camaro",
+		"clue":"chevy"
+	},
+
+	{
+		"word":"charger",
+		"clue":"dodge"
+	},
+
+	{
+		"word":"firebird",
+		"clue":"pontiac"
+	},
+
+	{
+		"word":"superbird",
+		"clue":"plymouth"
+	},
+
+	{
+		"word":"cutlass",
+		"clue":"oldsmobile"
+	}
+]
+}
